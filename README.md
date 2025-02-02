@@ -1,4 +1,4 @@
-# Community-Detection-Project \
+# Community-Detection-Project 
 توضیح مختصر پروژه: پیاده‌سازی و ارزیابی الگوریتم‌های مختلف تشخیص جوامع در شبکه‌ها با استفاده از داده‌های شبکه‌ای معتبر (Karate, Dolphin, Les Misérables, Facebook).
 
 ابزارها و تکنولوژی‌ها: Python, NetworkX, Matplotlib, PCA, K-means, Louvain Algorithm, Label Propagation Algorithm, Modularity, NMI, ARI
